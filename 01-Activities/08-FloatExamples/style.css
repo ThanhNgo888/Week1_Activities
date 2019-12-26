@@ -9,16 +9,17 @@
   color: white;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1.25em;
-}
+  background-color: red;
+} 
 
 header {
   background-color: #1D88E5;
   height: 100px;
   padding: 10px;
-  border: 1px solid white;
+  border: 1px solid white; 
 }
 
-aside {
+ aside {
   background-color: #1D88E5;
   width: 300px;
   height: 400px;
@@ -40,4 +41,4 @@ footer {
   height: 100px;
   padding: 10px;
   border: 1px solid white;
-}
+} 
